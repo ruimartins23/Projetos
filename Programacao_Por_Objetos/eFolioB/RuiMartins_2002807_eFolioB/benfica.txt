@@ -1,0 +1,15 @@
+1 Guarda-Redes
+3 Defesa
+5 Defesa
+7 Defesa
+10 Defesa
+2 Médio
+23 Médio
+60 Médio
+20 Atacante
+74 Atacante
+88 Atacante
+50 Atacante
+9 Médio
+4 Guarda-Redes
+11 Médio

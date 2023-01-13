@@ -1,0 +1,14 @@
+99 Guarda-Redes
+2 Defesa
+3 Defesa
+4 Defesa
+5 Defesa
+6 Medio
+7 Medio
+8 Medio
+9 Medio
+10 Atacante
+11 Atacante
+12 Guarda-Redes
+13 Medio
+14 Atacante

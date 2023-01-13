@@ -1,0 +1,8 @@
+10 Base
+11 Extremo
+12 Extremo
+13 Poste
+14 Poste
+15 Base
+16 Extremo
+17 Poste
